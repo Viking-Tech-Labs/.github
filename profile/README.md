@@ -1,4 +1,4 @@
-## Welcome to my Viking Tech Labs
+## Welcome to Viking Tech Labs
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -8,6 +8,9 @@
 <br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<br />
+<br />
 
 ### 👨‍💻 Languages and Tools
 
@@ -39,4 +42,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=auratiger&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="auratiger's Github Stats">
 </p>
 
-![Snake animation](https://github.com/auratiger/auratiger/blob/output/github-contribution-grid-snake.gif)
